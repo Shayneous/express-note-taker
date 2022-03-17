@@ -1,0 +1,25 @@
+{
+  "name": "express-note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shayneous/express-note-taker.git"
+  },
+  "author": "Shayne Ganness",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shayneous/express-note-taker/issues"
+  },
+  "homepage": "https://github.com/Shayneous/express-note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
