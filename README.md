@@ -4,9 +4,11 @@
 This app allows the user to enter and save notes, as well as delete previously saved notes.
 
 ## Screenshot
+![notetaker](https://user-images.githubusercontent.com/92000984/159100780-a130ce3c-651b-4f51-b6e4-ada438bc269c.png)
 
 ## Application Link
 https://express-note-taker-sg.herokuapp.com/
+![notetaker2](https://user-images.githubusercontent.com/92000984/159100782-18a21f37-793a-40df-86a2-96d8fa048a1a.png)
 
 ## User Story
 
